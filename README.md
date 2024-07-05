@@ -1,2 +1,2 @@
 # CMS-Project
-Collge Mnagment System Project
+college management system project
